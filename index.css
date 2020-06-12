@@ -1,0 +1,14 @@
+@media (min-width: 481px) {
+  .schedule-wrapper {
+    margin: 0 25%;
+  }
+}
+.e-appointment-indicator {
+    background: none !important;
+    border-radius: 0 !important;
+    height: 18px !important;
+    left: 0px !important;
+    margin: 1px auto !important;
+    width: 6px !important;
+    color: #3f51b5 !important;
+}
